@@ -1,20 +1,20 @@
-[submodule "/Users/peter.dirga/.vim/pack/plugins/start/rust.vim"]
-	path = /Users/peter.dirga/.vim/pack/plugins/start/rust.vim
+[submodule "plugins/start/rust.vim"]
+	path = pack/plugins/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
-[submodule "/Users/peter.dirga/.vim/pack/plugins/start/ale"]
-	path = /Users/peter.dirga/.vim/pack/plugins/start/ale
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
 	url = https://github.com/dense-analysis/ale.git
-[submodule "/Users/peter.dirga/.vim/pack/plugins/start/syntastic"]
-	path = /Users/peter.dirga/.vim/pack/plugins/start/syntastic
+[submodule "pack/plugins/start/syntastic"]
+	path = pack/plugins/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic
-[submodule "/Users/peter.dirga/.vim/pack/plugins/start/vim-go"]
-	path = /Users/peter.dirga/.vim/pack/plugins/start/vim-go
+[submodule "pack/plugins/start/vim-go"]
+	path = pack/plugins/start/vim-go
 	url = https://github.com/fatih/vim-go.git
-[submodule "/Users/peter.dirga/.vim/pack/plugins/start/vim-terraform"]
-	path = /Users/peter.dirga/.vim/pack/plugins/start/vim-terraform
+[submodule "pack/plugins/start/vim-terraform"]
+	path = pack/plugins/start/vim-terraform
 	url = https://github.com/hashivim/vim-terraform
-[submodule "/Users/peter.dirga/.vim/pack/plugins/start/vim-terraform-completion"]
-	path = /Users/peter.dirga/.vim/pack/plugins/start/vim-terraform-completion
+[submodule "pack/plugins/start/vim-terraform-completion"]
+	path = pack/plugins/start/vim-terraform-completion
 	url = https://github.com/juliosueiras/vim-terraform-completion
 [submodule "dist/start/vim-fugitive"]
 	path = dist/start/vim-fugitive

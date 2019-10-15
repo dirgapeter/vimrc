@@ -1,3 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/peter.dirga/Projects/hkf/lambda/src'
+let g:netrw_dirhist_2='/Users/peter.dirga/Projects/hkf/lambda'
 let g:netrw_dirhist_1='/Users/peter.dirga/.vim'
