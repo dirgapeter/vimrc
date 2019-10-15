@@ -1,0 +1,27 @@
+[submodule "/Users/peter.dirga/.vim/pack/plugins/start/rust.vim"]
+	path = /Users/peter.dirga/.vim/pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim
+[submodule "/Users/peter.dirga/.vim/pack/plugins/start/ale"]
+	path = /Users/peter.dirga/.vim/pack/plugins/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "/Users/peter.dirga/.vim/pack/plugins/start/syntastic"]
+	path = /Users/peter.dirga/.vim/pack/plugins/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic
+[submodule "/Users/peter.dirga/.vim/pack/plugins/start/vim-go"]
+	path = /Users/peter.dirga/.vim/pack/plugins/start/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "/Users/peter.dirga/.vim/pack/plugins/start/vim-terraform"]
+	path = /Users/peter.dirga/.vim/pack/plugins/start/vim-terraform
+	url = https://github.com/hashivim/vim-terraform
+[submodule "/Users/peter.dirga/.vim/pack/plugins/start/vim-terraform-completion"]
+	path = /Users/peter.dirga/.vim/pack/plugins/start/vim-terraform-completion
+	url = https://github.com/juliosueiras/vim-terraform-completion
+[submodule "dist/start/vim-fugitive"]
+	path = dist/start/vim-fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "dist/start/vim-airline"]
+	path = dist/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "dist/start/nerdtree"]
+	path = dist/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
