@@ -1,4 +1,4 @@
-[submodule "plugins/start/rust.vim"]
+[submodule "pack/plugins/start/rust.vim"]
 	path = pack/plugins/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
 [submodule "pack/plugins/start/ale"]
@@ -16,12 +16,12 @@
 [submodule "pack/plugins/start/vim-terraform-completion"]
 	path = pack/plugins/start/vim-terraform-completion
 	url = https://github.com/juliosueiras/vim-terraform-completion
-[submodule "dist/start/vim-fugitive"]
-	path = dist/start/vim-fugitive
+[submodule "pack/dist/start/vim-fugitive"]
+	path = pack/dist/start/vim-fugitive
 	url = http://github.com/tpope/vim-fugitive.git
-[submodule "dist/start/vim-airline"]
-	path = dist/start/vim-airline
+[submodule "pack/dist/start/vim-airline"]
+	path = pack/dist/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
-[submodule "dist/start/nerdtree"]
-	path = dist/start/nerdtree
+[submodule "pack/dist/start/nerdtree"]
+	path = pack/dist/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
