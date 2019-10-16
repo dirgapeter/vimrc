@@ -11,7 +11,6 @@ set encoding=utf-8
 " Set the encoding of files written
 set fileencoding=utf-8
 
-
 autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
 autocmd Filetype go setlocal tabstop=4 shiftwidth=4 softtabstop=4
 " ts - show existing tab with 4 spaces width
@@ -57,7 +56,7 @@ let g:go_auto_type_info = 1
 
 " NERDTree plugin specific commands
 :nnoremap <C-g> :NERDTreeToggle<CR>
-"autocmd vimenter * NERDTree
+autocmd vimenter * NERDTree
 
 
 " air-line plugin specific commands
