@@ -56,7 +56,7 @@ let g:go_auto_type_info = 1
 
 " NERDTree plugin specific commands
 :nnoremap <C-g> :NERDTreeToggle<CR>
-autocmd vimenter * NERDTree
+" autocmd vimenter * NERDTree
 
 
 " air-line plugin specific commands
