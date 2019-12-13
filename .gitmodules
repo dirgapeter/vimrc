@@ -1,24 +1,21 @@
 [submodule "pack/plugins/start/rust.vim"]
 	path = pack/plugins/start/rust.vim
-	url = https://github.com/rust-lang/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
 [submodule "pack/plugins/start/ale"]
 	path = pack/plugins/start/ale
 	url = https://github.com/dense-analysis/ale.git
 [submodule "pack/plugins/start/syntastic"]
 	path = pack/plugins/start/syntastic
-	url = https://github.com/vim-syntastic/syntastic
-[submodule "pack/plugins/start/vim-go"]
-	path = pack/plugins/start/vim-go
-	url = https://github.com/fatih/vim-go.git
+	url = https://github.com/vim-syntastic/syntastic.git
 [submodule "pack/plugins/start/vim-terraform"]
 	path = pack/plugins/start/vim-terraform
-	url = https://github.com/hashivim/vim-terraform
+	url = https://github.com/hashivim/vim-terraform.git
 [submodule "pack/plugins/start/vim-terraform-completion"]
 	path = pack/plugins/start/vim-terraform-completion
-	url = https://github.com/juliosueiras/vim-terraform-completion
+	url = https://github.com/juliosueiras/vim-terraform-completion.git
 [submodule "pack/dist/start/vim-fugitive"]
 	path = pack/dist/start/vim-fugitive
-	url = http://github.com/tpope/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "pack/dist/start/vim-airline"]
 	path = pack/dist/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
@@ -30,7 +27,10 @@
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
 [submodule "pack/plugins/start/vim-auto-save"]
 	path = pack/plugins/start/vim-auto-save
-    url = https://github.com/907th/vim-auto-save
+    url = https://github.com/907th/vim-auto-save.git
 [submodule "pack/plugins/start/govim"]
     path = pack/plugins/start/govim
     url = https://github.com/govim/govim.git
+[submodule "pack/pack/dist/start/vim-airline"]
+	path = pack/pack/dist/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
