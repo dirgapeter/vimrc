@@ -31,6 +31,3 @@
 [submodule "pack/plugins/start/govim"]
     path = pack/plugins/start/govim
     url = https://github.com/govim/govim.git
-[submodule "pack/pack/dist/start/vim-airline"]
-	path = pack/pack/dist/start/vim-airline
-	url = https://github.com/vim-airline/vim-airline.git
